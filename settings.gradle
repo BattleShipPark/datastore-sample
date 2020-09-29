@@ -1,0 +1,4 @@
+include ':Proto'
+include ':preference'
+include ':app'
+rootProject.name = "DataStore Sample"
